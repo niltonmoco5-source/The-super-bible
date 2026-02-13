@@ -1,0 +1,7 @@
+{
+  "name": "Bíblia Viva & Companheiro Espiritual",
+  "description": "Um companheiro espiritual inteligente que conversa com você sobre sua rotina, sugere passagens bíblicas para qualquer situação e ajuda a manter hábitos de oração e leitura.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
